@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/%EB%B0%B0%EA%B3%A0-%ED%94%84%EB%8B%A4-brightgree
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 
 Here are some ideas to get you started:
 
