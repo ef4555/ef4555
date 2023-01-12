@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+https://img.shields.io/badge/%EB%B0%B0%EA%B3%A0-%ED%94%84%EB%8B%A4-brightgreen
 **ef4555/ef4555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
