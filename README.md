@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img alt="Python" src ="https://img.shields.io/badge/Python-007396.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3766AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 Here are some ideas to get you started:
 
