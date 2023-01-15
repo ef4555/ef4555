@@ -5,6 +5,6 @@
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ef4555"/></a>
 
-🌱 I’m currently learning Python
-📫 chldPgns9806@gmail.com
+- 🌱 I’m currently learning Python
+- 📫 chldPgns9806@gmail.com
 
