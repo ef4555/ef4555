@@ -5,6 +5,8 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
 </a>
+
+
 <a><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ef4555"/></a>
 
 - 🌱 I’m currently learning Python and Django
