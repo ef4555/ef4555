@@ -9,6 +9,6 @@
 
 <a><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ef4555"/></a>
 
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning Django & Vue.js
 - 📫 chldPgns9806@gmail.com
 
