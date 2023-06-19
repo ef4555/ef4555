@@ -24,5 +24,6 @@
 <a><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ef4555"/></a>
 
 - 🌱 I’m currently learning Django & Vue.js
+- my Velog : <a>https://velog.io/@ef4555</a>
 - 📫 chldPgns9806@gmail.com
 
