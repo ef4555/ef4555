@@ -4,6 +4,7 @@
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white">
 <br>
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -14,7 +15,8 @@
 
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/FastAPI-#009688?style=for-the-badge&logo=fastapi&logoColor=black"> 
 
 <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -25,7 +27,7 @@
 
 <a><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ef4555"/></a>
 
-- 🌱 I’m currently learning Django & Vue.js
+- 🌱 I’m currently learning React & Java
 - my Velog : <a>https://velog.io/@ef4555</a>
 - 📫 chldPgns9806@gmail.com
 
