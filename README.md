@@ -26,11 +26,16 @@
 <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+
+<br>
+<br>
+<br>
+<img src="https://img.shields.io/badge/sap-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
 </div>
 
 <a><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ef4555"/></a>
 
-- 🌱 I’m currently learning React & Java
+- 🌱 I’m currently learning ABAP & SAP
 - my Velog : <a>https://velog.io/@ef4555</a>
 - 📫 chldPgns9806@gmail.com
 
