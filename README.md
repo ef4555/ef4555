@@ -36,5 +36,6 @@
 
 
 - my Velog : <a>https://velog.io/@ef4555</a>
+- my Notion(SAP) : https://www.notion.so/b796a74f3fdc42e1a280287c2754f236?v=67ec8efe340c4b7ab80eaf7fe2a9822c&pvs=4
 - 📫 chldPgns9806@gmail.com
 
