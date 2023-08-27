@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> 
 <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> 
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+<br>
 <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -36,6 +38,6 @@
 
 
 - my Velog : <a>https://velog.io/@ef4555</a>
-- my Notion(SAP) :<a href=https://www.notion.so/b796a74f3fdc42e1a280287c2754f236?v=67ec8efe340c4b7ab80eaf7fe2a9822c&pvs=4>SAP ABAP 공부 정리</a>
+- my Notion(SAP) : [SAP ABAP 공부 정리](https://www.notion.so/b796a74f3fdc42e1a280287c2754f236?v=67ec8efe340c4b7ab80eaf7fe2a9822c&pvs=4)
 - 📫 chldPgns9806@gmail.com
 
